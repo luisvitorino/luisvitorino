@@ -5,7 +5,7 @@
  
  I'm looking for a creative and collaborative enviroment.
  
- ⚡ My hobies are music and sports. 
+ ⚡ My hobbies are music and sports. 
  
 
 <!--
