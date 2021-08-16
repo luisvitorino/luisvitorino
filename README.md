@@ -2,9 +2,9 @@
  
  I`m Luis, full-stack developer in continuous evolution.
  
- I love tecnology, entrepreneurship and study different finacial markets.
+ I love tecnology, entrepreneurship and to study different finacial markets.
  
- I'm looking for creative and collaborative enviroments.
+ I'm looking for a creative and collaborative enviroment.
  
  ⚡ My hobies are music and sports. 
  
