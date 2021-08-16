@@ -1,6 +1,6 @@
 ### Hi there 👋
  
- I`m Luis, full-stack developers in continuous evolution.
+ I`m Luis, full-stack developer in continuous evolution.
  
  I love tecnology, entrepreneurship and study different finacial markets.
  
