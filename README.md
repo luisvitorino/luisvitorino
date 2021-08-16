@@ -1,4 +1,13 @@
 ### Hi there 👋
+ 
+ I`m Luis, full-stack developers in continuous evolution.
+ 
+ I love tecnology, entrepreneurship and study different finacial markets.
+ 
+ I'm looking for creative and collaborative enviroments.
+ 
+ ⚡ My hobies are music and sports. 
+ 
 
 <!--
 **luisvitorino/luisvitorino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
